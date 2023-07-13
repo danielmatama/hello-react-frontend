@@ -142,14 +142,14 @@ Vercel
 <!-- BACK-END REPOSITORY -->
 ## 💻 Back-end Repository <a name="backend-repo"></a>
 
-- [Click Here](https://github.com/tashisrael/hello-rails-back-end)
+- [Click Here](https://github.com/danielmatama/hello-rails-backend)
 
 - Clone this repository to your desired folder:
 
 - Example command:
 
   ```
-    git clone https://github.com/tashisrael/hello-rails-backend.git
+    git clone https://github.com/danielmatama/hello-rails-backend.git
     cd hello-rails-backend
   ```
 
